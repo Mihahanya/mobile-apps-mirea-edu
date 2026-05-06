@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "ru.mirea.buhtiyarov.activitylifecycle-mergeDebugResources-2:/layout/fragment_first2.xml",
+        "source": "ru.mirea.buhtiyarov.activitylifecycle-main-5:/layout/fragment_first2.xml"
+    },
+    {
+        "merged": "ru.mirea.buhtiyarov.activitylifecycle-mergeDebugResources-2:/layout/fragment_first.xml",
+        "source": "ru.mirea.buhtiyarov.activitylifecycle-main-5:/layout/fragment_first.xml"
+    },
+    {
+        "merged": "ru.mirea.buhtiyarov.activitylifecycle-mergeDebugResources-2:/layout/activity_second2.xml",
+        "source": "ru.mirea.buhtiyarov.activitylifecycle-main-5:/layout/activity_second2.xml"
+    },
+    {
+        "merged": "ru.mirea.buhtiyarov.activitylifecycle-mergeDebugResources-2:/layout/content_second2.xml",
+        "source": "ru.mirea.buhtiyarov.activitylifecycle-main-5:/layout/content_second2.xml"
+    },
+    {
+        "merged": "ru.mirea.buhtiyarov.activitylifecycle-mergeDebugResources-2:/layout/activity_main.xml",
+        "source": "ru.mirea.buhtiyarov.activitylifecycle-main-5:/layout/activity_main.xml"
+    },
+    {
+        "merged": "ru.mirea.buhtiyarov.activitylifecycle-mergeDebugResources-2:/layout/fragment_second.xml",
+        "source": "ru.mirea.buhtiyarov.activitylifecycle-main-5:/layout/fragment_second.xml"
+    },
+    {
+        "merged": "ru.mirea.buhtiyarov.activitylifecycle-mergeDebugResources-2:/layout/activity_second.xml",
+        "source": "ru.mirea.buhtiyarov.activitylifecycle-main-5:/layout/activity_second.xml"
+    },
+    {
+        "merged": "ru.mirea.buhtiyarov.activitylifecycle-mergeDebugResources-2:/layout/content_second.xml",
+        "source": "ru.mirea.buhtiyarov.activitylifecycle-main-5:/layout/content_second.xml"
+    },
+    {
+        "merged": "ru.mirea.buhtiyarov.activitylifecycle-mergeDebugResources-2:/layout/fragment_second2.xml",
+        "source": "ru.mirea.buhtiyarov.activitylifecycle-main-5:/layout/fragment_second2.xml"
+    }
+]
